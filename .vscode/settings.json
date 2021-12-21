@@ -1,3 +1,4 @@
 {
-  "terminal.integrated.detectLocale": "on"
+  "editor.defaultFormatter": "vscode.php-language-features",
+  "workbench.editor.enablePreviewFromCodeNavigation": true
 }
